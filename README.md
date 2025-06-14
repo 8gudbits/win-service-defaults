@@ -1,6 +1,6 @@
 # ResetWinServices
 
-Batch scripts restore all Windows services to their default state.
+Batch scripts to restore all Windows services to their default state.
 
 # Overview
 
